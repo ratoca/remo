@@ -409,7 +409,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .py20,.pt20{padding-top:20px!important} .py20,.pb20{padding-bottom:20px !important}
 .py30,.pt30{padding-top:30px!important} .py30,.pb30{padding-bottom:30px !important}
 
-.ru{text-decoration: none;}
+.ru{text-decoration:none;} .dn{display:none;}
 
 .f6{font-size:6px!important}
 .f8{font-size:8px!important}
